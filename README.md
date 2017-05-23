@@ -1,5 +1,5 @@
 # pushnotify [![CircleCI](https://circleci.com/gh/danesparza/pushnotify.svg?style=svg)](https://circleci.com/gh/danesparza/pushnotify)
-Command line tool to send notifications using Pushover
+Command line tool to send notifications using [Pushover](https://pushover.net/)
 
 ## Quick start
 ```
