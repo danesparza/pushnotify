@@ -2,6 +2,8 @@
 Command line tool to send notifications using [Pushover](https://pushover.net/)
 
 ## Quick start
+Grab the [latest release](https://github.com/danesparza/pushnotify/releases/latest) for your platform (it's just a single binary)
+
 ```
 Usage of pushnotify:
   -apiKey string
